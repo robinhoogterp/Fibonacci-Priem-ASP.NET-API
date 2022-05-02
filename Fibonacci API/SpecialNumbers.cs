@@ -21,7 +21,7 @@ namespace Fibonacci_API
         }
 
         /// <summary>
-        /// Recursieve functie die tot 52 preimgetallen kan checken
+        /// Recursieve functie die tot 52 priemgetallen kan checken
         /// </summary>
         /// <param name="number">Het te controleren getal</param>
         /// <param name="count">De index van de Fibonacci reeks</param>
