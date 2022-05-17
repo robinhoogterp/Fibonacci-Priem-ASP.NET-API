@@ -27,7 +27,7 @@ namespace Fibonacci_API
         /// <param name="count">De index van de Fibonacci reeks</param>
         /// <param name="prev">het vorige getal in de reeks</param>
         /// <param name="current">het huidige getal in de reeks</param>
-        /// <returns>returned een bool die aangeeft of het getal wel off niet in de reeks zit</returns>
+        /// <returns>returned een bool die aangeeft of het getal wel of niet in de reeks zit</returns>
         public static bool Fibonacci(long number,int count = 0,long prev = 0, long current = 1)
         {
             if(count < 52)
